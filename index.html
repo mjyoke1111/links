@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MJ YOKE — Links</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    background: linear-gradient(160deg, #eef4ff 0%, #f7f9ff 45%, #eef7ff 100%);
+    min-height: 100vh; display: flex; justify-content: center; padding: 48px 20px;
+    color: #1a2333;
+  }
+  .wrap { width: 100%; max-width: 520px; }
+  header { text-align: center; margin-bottom: 28px; }
+  .mark {
+    width: 72px; height: 72px; border-radius: 50%; margin: 0 auto 14px;
+    background: linear-gradient(135deg, #2f7bff, #6aa6ff);
+    display: flex; align-items: center; justify-content: center;
+    color: #fff; font-weight: 800; font-size: 28px;
+    box-shadow: 0 8px 24px rgba(47,123,255,.35);
+  }
+  h1 { font-size: 22px; font-weight: 700; letter-spacing: .2px; }
+  p.sub { color: #5b6b84; font-size: 14px; margin-top: 6px; }
+  a.card {
+    display: block; text-decoration: none; color: inherit;
+    background: rgba(255,255,255,.72); backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border: 1px solid rgba(47,123,255,.16); border-radius: 18px;
+    padding: 18px 20px; margin-bottom: 14px;
+    box-shadow: 0 4px 18px rgba(30,60,120,.08);
+    transition: transform .12s ease, box-shadow .12s ease;
+  }
+  a.card:hover { transform: translateY(-2px); box-shadow: 0 10px 28px rgba(30,60,120,.14); }
+  a.card .t { font-weight: 700; font-size: 16px; }
+  a.card .d { color: #5b6b84; font-size: 13.5px; margin-top: 4px; line-height: 1.45; }
+  a.card.coffee { background: linear-gradient(135deg, rgba(255,221,85,.35), rgba(255,255,255,.72)); border-color: rgba(200,150,20,.25); }
+  footer { text-align: center; color: #8a97ad; font-size: 12px; margin-top: 26px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="mark">MJ</div>
+    <h1>MJ YOKE</h1>
+    <p class="sub">AI model news, benchmarked. Numbers first, no hype.</p>
+  </header>
+
+  <a class="card" href="https://free-ai-model-hunter.vercel.app/">
+    <div class="t">Free AI Model Hunter</div>
+    <div class="d">Every legit way to get free AI API access, tracked and verified.</div>
+  </a>
+
+  <a class="card" href="https://model-review-3yp.pages.dev/">
+    <div class="t">Model Reviewer</div>
+    <div class="d">Head-to-head AI model reviews with real numbers.</div>
+  </a>
+
+  <a class="card" href="https://lab.jev-labs.pages.dev/">
+    <div class="t">Jev Lab</div>
+    <div class="d">Experiments and reports from the lab.</div>
+  </a>
+
+  <a class="card coffee" href="https://buymeacoffee.com/mjyoke1111">
+    <div class="t">Buy Me a Coffee</div>
+    <div class="d">Support the work if it ever saved you money or time.</div>
+  </a>
+
+  <footer>Links open in a new tab.</footer>
+</div>
+<script>
+  document.querySelectorAll('a.card').forEach(a => { a.target = '_blank'; a.rel = 'noopener'; });
+</script>
+</body>
+</html>
