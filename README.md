@@ -7,9 +7,9 @@ A static links homepage for public project sites.
 ## Projects
 
 - [Free AI Model Hunter](https://free-ai-model-hunter.vercel.app/): provider access directory. Terms and availability need current provider checks.
-- [AI Model Reviewer](https://model-review-3yp.pages.dev/): creative-output gallery and recorded run details. Judge scores are provisional, not a universal ranking.
-- [AI Game Studio](https://ai-game-studio-amz.pages.dev/): browser games and build records. Device support varies.
-- [JevLab](https://lab.jev-labs.pages.dev/): experiment methods and recorded-answer replays.
+- [AI Model Reviewer](https://mr.mjyoke1111.biz.id/): creative-output gallery and recorded run details. Judge scores are provisional, not a universal ranking.
+- [AI Game Studio](https://games.mjyoke1111.biz.id/): browser games and build records. Device support varies.
+- [JevLab](https://jev.lab.mjyoke1111.biz.id/): experiment methods and recorded-answer replays.
 
 Links were opened during a browser check on 11 October 2026. That check confirms these pages were reachable, not every feature, claim or result. Read JevLab's methods and source evidence before using a result.
 
