@@ -10,7 +10,7 @@
 
 **A static links homepage for the studio's public project sites.**
 
-<a href="https://mjyoke1111.github.io/links/"><img alt="live: mjyoke1111.github.io/links" src="https://img.shields.io/badge/live-mjyoke1111.github.io%2Flinks-2ea44f?style=flat-square"></a> <a href="#licence"><img alt="licence: all rights reserved" src="https://img.shields.io/badge/licence-all%20rights%20reserved-6b7785?style=flat-square"></a>
+<a href="https://mjyoke1111.github.io/links/"><img alt="live: mjyoke1111.github.io/links" src="https://img.shields.io/badge/live-mjyoke1111.github.io%2Flinks-2ea44f?style=flat-square"></a> <a href="LICENSE"><img alt="licence: Apache-2.0" src="https://img.shields.io/badge/licence-Apache--2.0-7fd3b4?style=flat-square"></a>
 
 <a href="https://mjyoke1111.github.io/links/"><b>Live site</b></a>
 
@@ -64,6 +64,6 @@ This is a studio repository maintained by its owner and the studio's agents. Ope
 
 ## Licence
 
-No open-source licence has been granted for this repository yet. All rights reserved; please ask before reusing any of its code or media.
+Licensed under the [Apache License, Version 2.0](LICENSE). Copyright 2026 mjyoke1111; see [NOTICE](NOTICE).
 
 <div align="center"><sub>Part of the <a href="https://www.mjyoke1111.biz.id">mjyoke1111</a> studio.</sub></div>
