@@ -51,6 +51,14 @@ Open `http://127.0.0.1:8000`. This is a static HTML/CSS site with an original SV
 
 This repository publishes the hub only. It does not publish the linked products' source or grant rights to their content. Keep keys, credentials and private files out of this repository. Review each project's own evidence and limitations before relying on it.
 
+## What's new this week
+
+3 commits landed between 19 and 26 October 2026. Highlights, newest first:
+
+- Add Apache-2.0 licence; update README licence section and badge (`d1266a1`)
+- docs: professional README homepage with banner, logo and badges (`5dcd667`)
+- docs: point links to custom domains (`45d6df6`)
+
 ## Tech stack
 
 | Layer | Technology |
