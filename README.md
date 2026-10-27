@@ -59,6 +59,22 @@ This repository publishes the hub only. It does not publish the linked products'
 - docs: professional README homepage with banner, logo and badges (`5dcd667`)
 - docs: point links to custom domains (`45d6df6`)
 
+## Install
+
+There is no build step and nothing to install. Clone the repository and preview it locally (see [Local preview](#local-preview)):
+
+```bash
+git clone https://github.com/mjyoke1111/links.git
+cd links
+python3 -m http.server 8000 --bind 127.0.0.1
+```
+
+## Usage
+
+- **Visit:** the live page is at [mjyoke1111.github.io/links](https://mjyoke1111.github.io/links/).
+- **Add or edit a project:** change its entry in `index.html` (name, link and one-line note), preview locally, then open a pull request. GitHub Pages republishes the page once the change is merged.
+- **How it fits together:** see [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+
 ## Tech stack
 
 | Layer | Technology |
